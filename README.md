@@ -1,2 +1,3 @@
 # game.c
-my First game. 
+my First game. <br>
+author : harsh Mewara
